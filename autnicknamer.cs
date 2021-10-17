@@ -12,7 +12,7 @@ using System.Text.RegularExpressions;
      public static void Main(string[] args)
      {
        //Words to use,in order.
-       string[] words1 = {"Swedish","Laggy","Authentic","Alternative","Censored","Suppressed","Creative","Molten","Unusual", "Bound", "Toasty", "Classy", "Lazy", "Sentient", "Evil", "Responsible"};
+       string[] words1 = {"Unrelated","Sensitive","Swedish","Laggy","Authentic","Alternative","Censored","Suppressed","Creative","Molten","Unusual", "Bound", "Toasty", "Classy", "Lazy", "Sentient", "Evil", "Responsible"};
        string[] words2 = {"Slab","Landscape","Meatball","Octopus","Fossa","Kalashnikov","Puppet","Catwalk","Laxative","Lava","Earth","Monster", "Toaster", "Tuxedo", "Penguin", "Sandwich", "Bead", "Battery"};
        
        Random rnd = new Random();
